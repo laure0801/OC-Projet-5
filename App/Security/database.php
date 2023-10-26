@@ -32,7 +32,7 @@ class Database
      * @param null $binds
      * @return bool|false|\PDOStatement
      */
-    protected function sql($sql, $parameters = null)
+    protected function create($sql, $parameters = null)
     {
 
         if ($parameters) {
