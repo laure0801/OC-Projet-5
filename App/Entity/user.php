@@ -61,9 +61,9 @@ class User
     /**
      * @param mixed $firstname
      */
-    public function setEmail($firstname): void
+    public function setFirstname($firstname): void
     {
-        $this->email = $email;
+        $this->firstname = $firstname;
     }
 
 
