@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Repository;
+namespace Repository;
 
 use App\Entity\User;
 use Security\database;

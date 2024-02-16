@@ -1,7 +1,7 @@
 <?php
 
 
-namespace App\Entity;
+namespace Entity;
 
 class User
 {
